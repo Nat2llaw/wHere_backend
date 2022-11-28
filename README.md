@@ -2,7 +2,7 @@
 
 [Live Site](https://good-blue-newt-tam.cyclic.app/api)
 
-[Backend](https://github.com/kamakazee/wHere_Backend/)
+[Frontend](https://github.com/nat2llaw/wHere_frontend/)
 
 ## Description
 
